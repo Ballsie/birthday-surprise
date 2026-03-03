@@ -88,7 +88,7 @@ function App() {
         </button>
       )}
 
-      <audio ref={audioRef} src="/happy-birthday.mp3" loop />
+      <audio ref={audioRef} src="/birthday-surprise/happy-birthday.mp3" loop />
 
       {started && (
         <>
@@ -129,7 +129,7 @@ function App() {
           </div>
 
           <div className="cake-gif">
-            <img src="/cat.gif" alt="Celebration gif" />
+            <img src="/birthday-surprise/cat.gif" alt="Celebration gif" />
           </div>
 
           {/* Confetti */}
@@ -162,7 +162,7 @@ function App() {
                   </div>
 
                   <div className="right">
-                    <img src="/img.jpg" alt="Us" />
+                    <img src="/birthday-surprise/img.jpg" alt="Us" />
                   </div>
                 </div>
               </div>
