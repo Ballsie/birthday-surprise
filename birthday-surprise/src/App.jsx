@@ -156,8 +156,10 @@ function App() {
                   <div className="left">
                     <h2>My Message For You ❤️</h2>
                     <p>
-                      Happiest Birthday Pookie! Always remember that I love and appreciate you.
-                      Thank you for loving me endlessly as I will love you the same. 
+                      Happiest Birthday Honey! I can’t believe 25 ka na, good
+                      thing mahaba buhay ng lahi nyo. Thank you for always being
+                      there for me when I need it the most. Always remember I
+                      love you through thick and thin.
                     </p>
                   </div>
 
